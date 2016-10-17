@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    font-weight: 300;
+}
+
+.counters {
+    color: #555;
+}
+
+.counters button {
+    font-weight: 300;
+    color: #777;
+}
+
+.counters h1 {
+    font-weight: 300;
+    margin-bottom: 0.3em;
+}
+
+.counters pre {
+    margin-bottom: 2em;
+}
